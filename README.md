@@ -6,9 +6,6 @@
 </h1>
 
 
-<div align="center">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWgzbG1qcTZ3NnhiYmpia29jejVzbDNkdWN4a2x3M2xvMzZmeXRsNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4v5zIFWE34PsiCPRs/giphy.gif" width="500px" height="330px" />
-</div>
 
 
 <h2 align="center"> Full Stack Junior Developer </h2>
